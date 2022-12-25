@@ -46,9 +46,11 @@ const graphql_request_1 = require("graphql-request");
 const fs_1 = __importDefault(require("fs"));
 const axios_1 = __importDefault(require("axios"));
 const alasql_1 = __importDefault(require("alasql"));
+const path_1 = __importDefault(require("path"));
 dotenv_1.default.config();
 const app = (0, express_1.default)();
 const port = process.env.PORT;
+app.use('/static', express_1.default.static(path_1.default.join(__dirname, 'uploads')));
 const graphqlEndpoint = (_a = process.env.GRAPHQL_ENDPOINT) !== null && _a !== void 0 ? _a : "";
 const finished = (0, util_1.promisify)(stream.finished);
 const client = new graphql_request_1.GraphQLClient(graphqlEndpoint);
@@ -88,7 +90,12 @@ app.get('/', (req, res) => __awaiter(void 0, void 0, void 0, function* () {
             console.log(item.id);
             let url = `${__dirname}/uploads/${item.id}.${(_b = exts[item.type]) !== null && _b !== void 0 ? _b : "png"}`;
             // console.log(url)
-            yield downloadFile(item.url, url);
+            try {
+                yield downloadFile(item.url, url);
+            }
+            catch (error) {
+                console.error(error);
+            }
         }
     }
     res.json(ids);

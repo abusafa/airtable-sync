@@ -7,13 +7,15 @@ import { GraphQLClient, gql } from 'graphql-request'
 import fs from 'fs';
 import axios from 'axios';
 import alasql from "alasql"
-
+import path from 'path';
 
 
 dotenv.config();
 
 const app: Express = express();
 const port = process.env.PORT;
+app.use('/static', express.static(path.join(__dirname, 'uploads')))
+
 const graphqlEndpoint = process.env.GRAPHQL_ENDPOINT ?? "";
 import { v4 as uuidv4 } from 'uuid';
 
@@ -60,7 +62,13 @@ app.get('/', async (req: Request, res: Response) => {
       console.log(item.id)
       let url = `${__dirname}/uploads/${item.id}.${exts[item.type] ?? "png"}`;
       // console.log(url)
-      await downloadFile(item.url, url)
+      try {
+        await downloadFile(item.url, url)
+      } catch (error) {
+        console.error(error);
+
+      }
+     
     }
   }
 

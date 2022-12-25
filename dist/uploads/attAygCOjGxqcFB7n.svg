@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Hospitals"
+   width="78"
+   height="78"
+   viewBox="0 0 78 78"
+   version="1.1"
+   sodipodi:docname="Hospitals-1.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata1589">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1587" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview1585"
+     showgrid="false"
+     inkscape:zoom="6.051282"
+     inkscape:cx="50.539992"
+     inkscape:cy="33.737714"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Hospitals" />
+  <circle
+     id="Ellipse_78"
+     data-name="Ellipse 78"
+     cx="39"
+     cy="39"
+     r="39"
+     fill="#f27070" />
+  <g
+     id="Group_276"
+     data-name="Group 276"
+     transform="translate(-11874 -11465)">
+    <g
+       id="Group_274"
+       data-name="Group 274"
+       opacity="0.1"
+       style="mix-blend-mode: multiply;isolation: isolate">
+      <path
+         id="Path_305"
+         data-name="Path 305"
+         d="M11929,11485h-32a4,4,0,0,0-4,4v22l18,10h4l18-10v-22A4,4,0,0,0,11929,11485Zm-4,20h-8v8h-8v-8h-8v-8h8v-8h8v8h8Z" />
+    </g>
+    <g
+       id="Group_275"
+       data-name="Group 275">
+      <path
+         id="Path_306"
+         data-name="Path 306"
+         d="M11929,11486h-32a4,4,0,0,0-4,4v22l18,10h4l18-10v-22A4,4,0,0,0,11929,11486Zm-4,20h-8v8h-8v-8h-8v-8h8v-8h8v8h8Z"
+         fill="#fff" />
+    </g>
+  </g>
+</svg>

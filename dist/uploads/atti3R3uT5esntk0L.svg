@@ -1,0 +1,15 @@
+<svg id="Hotels" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <circle id="Ellipse_36" data-name="Ellipse 36" cx="40" cy="40" r="40" fill="#bb72d9"/>
+  <g id="Group_132" data-name="Group 132" transform="translate(-11873 -11574)">
+    <g id="Group_129" data-name="Group 129" opacity="0.1" style="mix-blend-mode: multiply;isolation: isolate">
+      <path id="Path_129" data-name="Path 129" d="M11932,11613h-37v-12h-4v24h4v-4h36v4h4v-12Z"/>
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="10" height="4" transform="translate(11897 11606)"/>
+    </g>
+    <g id="Group_131" data-name="Group 131">
+      <g id="Group_130" data-name="Group 130">
+        <path id="Path_130" data-name="Path 130" d="M11932,11614h-37v-12h-4v24h4v-4h36v4h4v-12Z" fill="#fff"/>
+        <rect id="Rectangle_17" data-name="Rectangle 17" width="10" height="4" transform="translate(11897 11607)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

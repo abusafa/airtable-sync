@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Pharmacy_"
+   data-name="Pharmacy "
+   width="80"
+   height="80"
+   viewBox="0 0 80 80"
+   version="1.1"
+   sodipodi:docname="Pharmacy.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata886">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs884" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview882"
+     showgrid="false"
+     inkscape:zoom="7.1417785"
+     inkscape:cx="56.568542"
+     inkscape:cy="34.700356"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Pharmacy_" />
+  <circle
+     id="Ellipse_34"
+     data-name="Ellipse 34"
+     cx="40"
+     cy="40"
+     r="40"
+     fill="#f3706a" />
+  <g
+     id="Group_126"
+     data-name="Group 126"
+     transform="translate(-13153 -10914)">
+    <g
+       id="Group_122"
+       data-name="Group 122">
+      <g
+         id="Group_120"
+         data-name="Group 120"
+         opacity="0.1"
+         style="mix-blend-mode: multiply;isolation: isolate">
+        <path
+           id="Path_124"
+           data-name="Path 124"
+           d="M13210.6,10945.187a8,8,0,0,0-11.312,0l-16.264,16.264a8,8,0,0,0,11.313,11.313l16.263-16.263A8,8,0,0,0,13210.6,10945.187Zm-19.092,24.749a4,4,0,0,1-5.656-5.656l8.8-8.8a11.387,11.387,0,0,1,5.659,5.654Zm16.265-16.264-5.966,5.965a13.575,13.575,0,0,0-2.744-3.619l8.319-8.319a3.618,3.618,0,0,1,.391.316A4.005,4.005,0,0,1,13207.774,10953.672Z" />
+      </g>
+      <g
+         id="Group_121"
+         data-name="Group 121">
+        <path
+           id="Path_125"
+           data-name="Path 125"
+           d="M13210.6,10946.187a8,8,0,0,0-11.312,0l-16.264,16.264a8,8,0,0,0,11.313,11.313l16.263-16.263A8,8,0,0,0,13210.6,10946.187Zm-19.092,24.749a4,4,0,0,1-5.656-5.656l8.8-8.8a11.387,11.387,0,0,1,5.659,5.654Zm16.265-16.264-5.966,5.965a13.575,13.575,0,0,0-2.744-3.619l8.319-8.319a3.618,3.618,0,0,1,.391.316A4.005,4.005,0,0,1,13207.774,10954.672Z"
+           fill="#fff" />
+      </g>
+    </g>
+    <g
+       id="Group_125"
+       data-name="Group 125">
+      <g
+         id="Group_123"
+         data-name="Group 123"
+         opacity="0.1"
+         style="mix-blend-mode: multiply;isolation: isolate">
+        <path
+           id="Path_126"
+           data-name="Path 126"
+           d="M13193,10941a10,10,0,1,0-10,10A10,10,0,0,0,13193,10941Zm-17.158.24a.25.25,0,0,1,0-.481l5.2-1.484a7.147,7.147,0,0,1,3.923,0l5.2,1.484a.25.25,0,0,1,0,.481l-5.2,1.484a7.123,7.123,0,0,1-3.923,0Z" />
+      </g>
+      <g
+         id="Group_124"
+         data-name="Group 124">
+        <path
+           id="Path_127"
+           data-name="Path 127"
+           d="M13193,10942a10,10,0,1,0-10,10A10,10,0,0,0,13193,10942Zm-17.158.24a.25.25,0,0,1,0-.481l5.2-1.484a7.147,7.147,0,0,1,3.923,0l5.2,1.484a.25.25,0,0,1,0,.481l-5.2,1.484a7.123,7.123,0,0,1-3.923,0Z"
+           fill="#fff" />
+      </g>
+    </g>
+  </g>
+</svg>
